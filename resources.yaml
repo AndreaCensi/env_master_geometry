@@ -1,0 +1,10 @@
+- dir: .
+  url: git@github.com:AndreaCensi/env_master_geometry.git
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: master
+
+- dir: src/geometry
+  url: git@github.com:AndreaCensi/geometry.git
+  branch: master
