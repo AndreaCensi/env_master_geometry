@@ -2,7 +2,7 @@
 set -e
 
 config=environment.sh
-tag=COMPMAKE
+tag=GEOMETRY
 
 echo "Creating configuration file ${config}..."
 # TODO: add in PATH the current path for python
